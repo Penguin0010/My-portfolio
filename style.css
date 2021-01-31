@@ -1,0 +1,79 @@
+body {
+  background-image:
+  url(https://photopro.com.ua/image/cache/BD-Marigold-169-390x390.jpg);
+  background-size: auto;  
+}
+nav {
+    background: #000000;
+    color: #dbdbdb;
+    border-radius: 5px;
+    
+    line-height: 50px;
+    max-width: 1600px;
+    text-indent: 20px;
+    font-size: 20px;
+    text-align: right;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}  
+menu {
+  list-style: none;
+}    
+menu a {
+  text-decoration: none;
+  font-family:Comic Sans MS, Comic Sans, cursive;
+  color:bisque;
+  display: inline-block;
+  padding: 10px 10px;
+  
+} 
+menu li {
+display: inline-block;
+padding: 0 25px;
+margin: 0 -2px;
+}
+h1 {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  text-align: center;
+}
+img {
+  padding-top: 15px;
+  padding-left: 120px;
+  padding-right: 50px;
+}
+p {
+  font-size: 20px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+li {
+  font-size: 20px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+ h2 {
+  
+	font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 30px;
+	color: rgb(0, 0, 0);
+	padding: 0 660px;
+	margin: 70px 0 10px 0;
+}
+section > h3 {
+  
+	font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 30px;
+	color: rgb(0, 0, 0);
+	padding: 0 700px;
+	margin: 50px 0 10px -10px;
+}
+footer {
+	background: #000000;
+	color: bisque;
+  font-size: 20px;
+  text-align: center;
+}
+
+#footer {
+	max-width: 1000px;
+	margin: auto;
+	padding: 10px 0;
+	height: 130px;
+}
